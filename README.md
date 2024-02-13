@@ -2,7 +2,7 @@
 
 
 ## File Tree
-.
+```
 ├── DATA
 │   ├── barbie_reviews.csv
 │   ├── barbie_reviews_sentiment.csv
@@ -15,3 +15,4 @@
     ├── queryFromRequests.ipynb
     ├── sentiment_analysis.ipynb
     └── statistical_tests.ipynb
+```
