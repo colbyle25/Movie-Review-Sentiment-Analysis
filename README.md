@@ -28,7 +28,6 @@ We are writing our scripts in Jupyter notebooks for readability. Notable package
 │   ├── Oppenheimer Sentiment Distribution.png
 │   ├── Sentiment Distribution.png
 │   └── Text Length VS Sentiment.png
-├── OUTPUTS
 ├── README.md
 └── SCRIPTS
     ├── analysis_plan.png
