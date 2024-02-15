@@ -8,15 +8,31 @@ We are writing our scripts in Jupyter notebooks for readability. Notable package
 
 # 2. File Tree
 ```
+.
 ├── DATA
+│   ├── Data Dictionary.pdf
 │   ├── barbie_reviews.csv
 │   ├── barbie_reviews_sentiment.csv
 │   ├── oppenheimer_reviews.csv
 │   └── oppenheimer_reviews_sentiment.csv
+├── LICENSE
+├── OUTPUT
+│   ├── Average Sentiment Score.png
+│   ├── Barbie Sentiment Distribution.png
+│   ├── Clustering of Barbie Sentiments.png
+│   ├── Clustering of Oppenheimer Sentiments.png
+│   ├── Clustering of Sentiments.png
+│   ├── Mean Reviewer Score.png
+│   ├── Null Distribution of P-Value.png
+│   ├── Null Distribution of Z-Statistic.png
+│   ├── Oppenheimer Sentiment Distribution.png
+│   ├── Sentiment Distribution.png
+│   └── Text Length VS Sentiment.png
 ├── OUTPUTS
 ├── README.md
 └── SCRIPTS
     ├── analysis_plan.png
+    ├── master_script.ipynb
     ├── queryFromRequests.ipynb
     ├── sentiment_analysis.ipynb
     └── statistical_tests.ipynb
